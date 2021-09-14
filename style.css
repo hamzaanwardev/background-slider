@@ -59,6 +59,8 @@ body:before {
     position: fixed;
     /* z-index: 10; */
     background: transparent;
+    color: #fff;
+    cursor: pointer;
     padding: 20px;
     font-size: 30px;
     border: 2px solid orange;
